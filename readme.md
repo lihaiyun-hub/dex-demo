@@ -1,7 +1,6 @@
 # DEX-Proj（MetaNodeSwap）技术方案
 
 - 文档版本：v1.0
-- 更新时间：2026-01-11
 - 项目范围：MetaNodeSwap 合约 + DEX 前端 + 路由查询后端 + 扫链数据同步
 
 ## 摘要
